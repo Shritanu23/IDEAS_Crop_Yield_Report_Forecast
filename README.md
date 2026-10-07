@@ -1,6 +1,6 @@
 # Crop Yield Forecast Reporting & Data Pipeline
 
-> **Data Analyst / Data Engineering Portfolio Project**  
+> **Data Analyst / Data Engineering Project**  
 > A PostgreSQL-driven reporting pipeline that extracts crop-yield forecast data by crop, state, year, season, and prediction method, then generates formatted Word reports automatically.
 
 ## 📌 Project Overview
