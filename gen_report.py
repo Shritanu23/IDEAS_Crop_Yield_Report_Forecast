@@ -13,9 +13,9 @@ from datetime import datetime
 DB_CONFIG = {
     "dbname": "ShritanuDB",
     "user": "postgres",
-    "password": "Smpm@2397",
+    "password": "*****",
     "host": "localhost",
-    "port": "5432"
+    "port": "***"
 }
 
 # --- HELPER: Determine previous years (Modified) ---
