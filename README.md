@@ -1,4 +1,5 @@
 # Crop Yield Forecast Reporting & Data Pipeline
+Data Science Internship Institution: IDEAS - Institute of Data Engineering, Analytics, and Science Technology Innovation Hub: Indian Statistical Institute, Kolkata.
 
 > **Data Analyst / Data Engineering Project**  
 > A PostgreSQL-driven reporting pipeline that extracts crop-yield forecast data by crop, state, year, season, and prediction method, then generates formatted Word reports automatically.
